@@ -49,4 +49,6 @@
 |4. Заходим во вкладку Web<br><br>5. Нажимаем  Add a new web app > Next > <br>> Выбираем Flask > Python 3.10 > Next > Ждем|![](https://imgur.com/GdSoaW2.png)|
 |6. Попадаем на страницу нашего web-приложения.<br><br>7. Сохраняем ссылку на ваш сайт(синяя):|![](https://imgur.com/p7EG9QL.png)|
 |8. Листаем ниже > во вкладке Code переходим в <br>Source code: смотреть на фото|![](https://imgur.com/Cxhib2L.png)|
-|9. Нажимаем на файл с именем ***flask_app.py***<br><br>10. Удаляем все с файла и вставляем код с [flask_code.txt](https://github.com/Corkerro/checkLightAtHome/blob/main/flask_code.txt)||
+|9. Нажимаем на файл с именем ***flask_app.py***<br><br>10. Удаляем все с файла и вставляем код с [flask_code.txt](https://github.com/Corkerro/checkLightAtHome/blob/main/flask_code.txt)<br><br>11. Нажимаем *Ctrl+s* или справа сверху на ***Save***|![](https://imgur.com/ri0zMmN.png)|
+|12. Заходим на [pythonanywhere.com](https://www.pythonanywhere.com) > Web ><br>> Нажимаем ***Reload Your nick.pythonanywhere.com***|![](https://imgur.com/uJNXLCv.png)|
+|13. После чего заходим на сайт(синий текст)<br> Если все работает - вам на экран вывидеться ***Your IP address is:'Ваш IP'***|![](https://imgur.com/cWLnThZ.png)|
